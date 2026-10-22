@@ -5,8 +5,6 @@ MS in Software Engineering @ Northeastern University · Research Assistant Inter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshak--desai)
 [![Email](https://img.shields.io/badge/Email-desai.dars%40northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desai.dars@northeastern.edu)
-[![AAAI 2026](https://img.shields.io/badge/AAAI_2026-Publication-1F4E9A?style=for-the-badge&logo=googlescholar&logoColor=white)](#-research)
-[![AuthoAI Demo](https://img.shields.io/badge/AuthoAI-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/WS1dns0YYAI)
 
 ![Profile views](https://komarev.com/ghpvc/?username=DarshakDesai25&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
