@@ -35,8 +35,13 @@ I build AI systems and then test whether they actually work. My research looks a
 | Project | Description | Tech |
 | --- | --- | --- |
 | **[AuthoAI](ADD_REPO_LINK)** · [Demo](https://youtu.be/WS1dns0YYAI) | 🏆 3rd Place BU Hackathon 2026. Runs BioMistral 7B locally via Ollama to cut a 45 minute physician workflow to under 60 seconds, with approval scoring and missing field detection across 10+ clinical fields. Fully offline and HIPAA compliant. | Python, Ollama, React |
-| **[PrepPalAI](ADD_REPO_LINK)** | AI mock interview platform with automated LLM evaluation that matches human graders 90%+ of the time across 100+ sessions. | Python, LLMs |
+| **[PrepPal AI](https://github.com/DarshakDesai25/Projects/tree/main/PrepPal-AI)** | AI mock interview platform with chat and voice modes, adaptive questions from resumes and job descriptions, and automated LLM scoring that matches human graders 90%+ of the time across 100+ sessions. | Python, LLMs, Whisper |### 📊 Data Analytics
 
+| Project | Description | Tech |
+| --- | --- | --- |
+| **[Sales Sight](https://github.com/DarshakDesai25/Projects/tree/main/Sales_Sight)** | Sales performance analysis with advanced SQL (window functions, cohort analysis), Pandas cleaning and interactive Power BI dashboards for revenue, regional and customer trends. | SQL, Pandas, Power BI |
+
+---
 ---
 
 ## 🔬 Research
