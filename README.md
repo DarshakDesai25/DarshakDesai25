@@ -1,6 +1,5 @@
 # Hi, I'm Darshak Desai 👋
 
-**AI Engineer · Researcher · AAAI 2026 Coauthor**
 
 MS in Software Engineering @ Northeastern University · Research Assistant Intern @ BIT Lab, Boston University · Boston, MA
 
